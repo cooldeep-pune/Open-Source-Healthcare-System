@@ -1,0 +1,1 @@
+docker-compose -p my-iris down
